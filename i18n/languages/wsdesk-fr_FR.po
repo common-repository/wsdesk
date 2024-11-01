@@ -1,0 +1,1717 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WSDesk - Wordpress HelpDesk & Support Ticket System "
+"(BASIC)\n"
+"POT-Creation-Date: 2017-09-06 12:07+0530\n"
+"PO-Revision-Date: 2017-09-07 15:31+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-WPHeader: wsdesk.php\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/class-crm-ajax-functions.php:262
+#: includes/class-crm-ajax-functions.php:283
+#: includes/class-crm-ajax-functions.php:304
+msgid "Specify whether this Field is Optional or Required?"
+msgstr "Spécifier si ce champ est facultatif ou obligatoire ?"
+
+#: includes/class-crm-ajax-functions.php:262
+#: includes/class-crm-ajax-functions.php:283
+#: includes/class-crm-ajax-functions.php:304
+#: includes/class-crm-js-translation.php:51
+msgid "Yes! This Field is Mandatory"
+msgstr "Ce champ est obligatoire !"
+
+#: includes/class-crm-ajax-functions.php:262
+#: includes/class-crm-ajax-functions.php:283
+#: includes/class-crm-ajax-functions.php:304
+msgid "No! Its an Optional Field"
+msgstr "Non ! Ses un champ facultatif"
+
+#: includes/class-crm-ajax-functions.php:1061
+#: views/tickets/crm_tickets_all.php:231
+msgid "Assignee"
+msgstr "Cessionnaire"
+
+#: includes/class-crm-ajax-functions.php:1092
+#: views/agents/crm_agents_manage.php:140 views/tickets/crm_tickets_all.php:380
+msgid "Tags"
+msgstr "Mots-clés"
+
+#: includes/class-crm-init-handler.php:96 wsdesk.php:151
+msgid "Tickets"
+msgstr "Voire les tickets"
+
+#: includes/class-crm-init-handler.php:99 wsdesk.php:152
+msgid "Settings"
+msgstr "Paramètres"
+
+#: includes/class-crm-init-handler.php:103
+msgid "Agents"
+msgstr "Agents"
+
+#: includes/class-crm-init-handler.php:105
+msgid "Reports"
+msgstr "Rapports"
+
+#: includes/class-crm-init-handler.php:107
+msgid "E-Mail"
+msgstr "Courriel"
+
+#: includes/class-crm-init-handler.php:108
+msgid "Import"
+msgstr "Importer des Taxonomies"
+
+#: includes/class-crm-js-translation.php:12
+msgid "Choose the Vendor(s)"
+msgstr "Choisir les fournisseurs"
+
+#: includes/class-crm-js-translation.php:13
+msgid "No Vendor Found"
+msgstr "Pas de boutique trouvée"
+
+#: includes/class-crm-js-translation.php:14
+msgid "No Status Found"
+msgstr "Pas trouvé de statut"
+
+#: includes/class-crm-js-translation.php:15
+msgid "Select Ticket Status"
+msgstr "Sélectionnez le statut du Ticket"
+
+#: includes/class-crm-js-translation.php:16
+msgid "Select Ticket Fields"
+msgstr "Sélectionnez les champs de billet"
+
+#: includes/class-crm-js-translation.php:17
+msgid "No Fields Found"
+msgstr "Aucun champ trouvé"
+
+#: includes/class-crm-js-translation.php:18
+msgid "Select Ticket Views"
+msgstr "Sélectionnez billet vues"
+
+#: includes/class-crm-js-translation.php:19
+msgid "No Views Found"
+msgstr "Aucune vue n'a été trouvée"
+
+#: includes/class-crm-js-translation.php:20
+msgid "Select Triggers"
+msgstr "Sélectionnez des déclencheurs"
+
+#: includes/class-crm-js-translation.php:21
+msgid "No Triggers Found"
+msgstr "Aucun déclencheur trouvé"
+
+#: includes/class-crm-js-translation.php:22
+msgid "Search and Choose"
+msgstr "Rechercher et choisir"
+
+#: includes/class-crm-js-translation.php:23
+msgid "No Posts Found"
+msgstr "Aucun article trouvé"
+
+#: includes/class-crm-js-translation.php:24
+msgid "Select Ticket Tags"
+msgstr "Sélectionner des balises de billet"
+
+#: includes/class-crm-js-translation.php:25
+#: includes/class-crm-js-translation.php:143
+msgid "No Tags Found"
+msgstr "Aucun Tag trouvé"
+
+#: includes/class-crm-js-translation.php:26 views/crm_settings_view.php:5
+#: views/crm_settings_view.php:12
+msgid "General"
+msgstr "Général"
+
+#: includes/class-crm-js-translation.php:27 views/crm_settings_view.php:15
+#: views/settings/crm_settings_fields.php:30
+msgid "Ticket Fields"
+msgstr "Champs de billet"
+
+#: includes/class-crm-js-translation.php:28
+#: includes/class-crm-js-translation.php:74 views/crm_settings_view.php:18
+#: views/settings/crm_settings_labels.php:13
+msgid "Ticket Status"
+msgstr "Statut du ticket"
+
+#: includes/class-crm-js-translation.php:29
+#: includes/class-crm-js-translation.php:77 views/crm_settings_view.php:21
+#: views/settings/crm_settings_tags.php:13
+msgid "Ticket Tags"
+msgstr "Tags du ticket"
+
+#: includes/class-crm-js-translation.php:30
+msgid "Ticket Views"
+msgstr "Billet vues"
+
+#: includes/class-crm-js-translation.php:31
+#: views/settings/crm_settings_premium.php:52 views/welcome/welcome.php:491
+msgid "Triggers & Automation"
+msgstr "Déclencheurs & Automation"
+
+#: includes/class-crm-js-translation.php:32 views/crm_settings_view.php:24
+msgid "Form Settings"
+msgstr "Paramètres de formulaire"
+
+#: includes/class-crm-js-translation.php:33
+msgid "Backup & Restore"
+msgstr "Sauvegarde & Restauration"
+
+#: includes/class-crm-js-translation.php:34
+msgid "Activation of WSDesk"
+msgstr "Activation de WSDesk"
+
+#: includes/class-crm-js-translation.php:35
+msgid "General Settings"
+msgstr "Pparametres generaux"
+
+#: includes/class-crm-js-translation.php:36
+#: includes/class-crm-js-translation.php:171
+msgid "Updated and Saved Successfully"
+msgstr "Mis à jour et enregistré avec succès"
+
+#: includes/class-crm-js-translation.php:37
+msgid "WooCommerce Settings"
+msgstr "Paramètres WooCommerce"
+
+#: includes/class-crm-js-translation.php:38
+msgid "Appearance Settings"
+msgstr "Paramètres d'apparence"
+
+#: includes/class-crm-js-translation.php:39
+msgid "Add Ticket Field"
+msgstr "champ du ticket"
+
+#: includes/class-crm-js-translation.php:40
+msgid "Enter title for the Field"
+msgstr "Entrez le titre du champ"
+
+#: includes/class-crm-js-translation.php:41
+msgid "Default Value is not Matched"
+msgstr "Valeur par défaut ne correspond pas"
+
+#: includes/class-crm-js-translation.php:42
+msgid "Site Key and Secret Key is Required"
+msgstr "Site clé et la clé secrète est requise"
+
+#: includes/class-crm-js-translation.php:43
+msgid "Edit Ticket Field"
+msgstr "champ du ticket"
+
+#: includes/class-crm-js-translation.php:44
+msgid "Add Value"
+msgstr "Ajouter une valeur"
+
+#: includes/class-crm-js-translation.php:45
+msgid "Enter details for custom"
+msgstr "Entrez les détails pour custom"
+
+#: includes/class-crm-js-translation.php:46
+msgid "Enter Title"
+msgstr "Saisissez le titre"
+
+#: includes/class-crm-js-translation.php:47
+msgid "Enter Site Key"
+msgstr "Entrer la clé de site"
+
+#: includes/class-crm-js-translation.php:48
+msgid "Enter Secret Key"
+msgstr "Entrez la clé secrète"
+
+#: includes/class-crm-js-translation.php:49
+msgid "Want to give some description to this field?"
+msgstr "Pour attribuer une description à ce champ"
+
+#: includes/class-crm-js-translation.php:50
+msgid "Specify whether this field is mandatory or not"
+msgstr "Spécifier si ce champ est obligatoire ou non"
+
+#: includes/class-crm-js-translation.php:52
+msgid "No! It's an Optional Field"
+msgstr "Non ! Ses un champ facultatif"
+
+#: includes/class-crm-js-translation.php:53
+msgid "Auto fill products"
+msgstr "Produits de remplissage automatique"
+
+#: includes/class-crm-js-translation.php:54
+msgid "Specify Product values"
+msgstr "Spécifiez les valeurs du produit"
+
+#: includes/class-crm-js-translation.php:55
+msgid "Enter Default Values"
+msgstr "Entrez les valeurs par défaut"
+
+#: includes/class-crm-js-translation.php:56
+msgid "Want to use this field to filter tickets"
+msgstr "Pour utiliser ce champ pour filtre billets"
+
+#: includes/class-crm-js-translation.php:57
+msgid "Yes! I will use it to filter tickets"
+msgstr "Oui ! Je vais l’utiliser pour des billets de filtre"
+
+#: includes/class-crm-js-translation.php:58
+#: views/settings/crm_settings_labels.php:57
+msgid "No! Just for Information"
+msgstr "Non ! Juste pour Information"
+
+#: includes/class-crm-js-translation.php:59
+msgid "Auto fill categories"
+msgstr "Catégories de remplissage automatique"
+
+#: includes/class-crm-js-translation.php:60
+msgid "Specify Category values"
+msgstr "Spécifiez les valeurs de catégorie"
+
+#: includes/class-crm-js-translation.php:61
+msgid "Specify Tag values"
+msgstr "Spécifiez les valeurs de la balise"
+
+#: includes/class-crm-js-translation.php:62
+msgid "Auto fill tags"
+msgstr "Tags de remplissage automatique"
+
+#: includes/class-crm-js-translation.php:63
+msgid "Specify the Vendor"
+msgstr "Spécifiez le nom du vendeur"
+
+#: includes/class-crm-js-translation.php:64
+msgid "Auto fill Vendors"
+msgstr "Auto-complétion des vendeurs"
+
+#: includes/class-crm-js-translation.php:65
+msgid "Specify Radio values"
+msgstr "Spécifiez les valeurs de la Radio"
+
+#: includes/class-crm-js-translation.php:66
+msgid "Enter first value"
+msgstr "Entrer la première valeur"
+
+#: includes/class-crm-js-translation.php:67
+msgid "Specify the Checkbox values"
+msgstr "Spécifiez les valeurs de Checkbox"
+
+#: includes/class-crm-js-translation.php:68
+msgid "Specify the Dropdown values"
+msgstr "Spécifiez les valeurs de liste déroulante"
+
+#: includes/class-crm-js-translation.php:69
+msgid "Enter Placeholder"
+msgstr "Introduisez votre terme générique"
+
+#: includes/class-crm-js-translation.php:70
+msgid "Enter next value"
+msgstr "Entrez la valeur suivante"
+
+#: includes/class-crm-js-translation.php:71
+msgid "Remove Values"
+msgstr "Supprimer des valeurs"
+
+#: includes/class-crm-js-translation.php:72
+msgid "Add Ticket Status"
+msgstr "Ajouter un statut de ticket"
+
+#: includes/class-crm-js-translation.php:73
+msgid "Enter status"
+msgstr "Entrez l’État"
+
+#: includes/class-crm-js-translation.php:75
+msgid "Add Ticket Tag"
+msgstr "Ajouter un nouveau Tag ticket"
+
+#: includes/class-crm-js-translation.php:76
+msgid "Enter title for the Tag"
+msgstr "Entrez le titre de la balise"
+
+#: includes/class-crm-js-translation.php:78
+msgid "Condition"
+msgstr "Condition"
+
+#: includes/class-crm-js-translation.php:79
+msgid "Enter Value"
+msgstr "Saisir la valeur"
+
+#: includes/class-crm-js-translation.php:80
+msgid "View condition field"
+msgstr "Champ d’état d’affichage"
+
+#: includes/class-crm-js-translation.php:81
+msgid "Remove Condition"
+msgstr "Supprimer la condition"
+
+#: includes/class-crm-js-translation.php:82
+msgid "Enter Period for New Trigger"
+msgstr "Entrent dans la phase pour le nouveau déclencheur"
+
+#: includes/class-crm-js-translation.php:83
+msgid "Edit Period for the Trigger"
+msgstr "Modifier la période de la détente"
+
+#: includes/class-crm-js-translation.php:84
+msgid "Trigger condition field"
+msgstr "Champ de condition de trigger"
+
+#: includes/class-crm-js-translation.php:85
+msgid "Add Trigger"
+msgstr "Ajouter un déclencheur"
+
+#: includes/class-crm-js-translation.php:86
+msgid "Enter title for the Trigger"
+msgstr "Entrez le titre du déclencheur"
+
+#: includes/class-crm-js-translation.php:87
+msgid "Specify some action for the Trigger"
+msgstr "Spécifier des mesures pour la détente"
+
+#: includes/class-crm-js-translation.php:88
+msgid "Edit Trigger"
+msgstr "Modifier le déclencheur"
+
+#: includes/class-crm-js-translation.php:89
+msgid "Triggers"
+msgstr "Déclencheurs"
+
+#: includes/class-crm-js-translation.php:90
+msgid "Select Condition Values"
+msgstr "Sélectionnez les valeurs de Condition"
+
+#: includes/class-crm-js-translation.php:91
+msgid "No Values Found"
+msgstr "Pas trouvés de valeurs"
+
+#: includes/class-crm-js-translation.php:92
+msgid "Action"
+msgstr "Action"
+
+#: includes/class-crm-js-translation.php:93
+msgid "Trigger Action field"
+msgstr "Champ d’Action de déclencheur"
+
+#: includes/class-crm-js-translation.php:94
+msgid "Remove Action"
+msgstr "Retirer cette action"
+
+#: includes/class-crm-js-translation.php:95
+msgid "Backup & Restore Alert"
+msgstr "Sauvegarde & alerte restauration"
+
+#: includes/class-crm-js-translation.php:96
+msgid "Choose some data to Backup"
+msgstr "Choisir certaines données à sauvegarder"
+
+#: includes/class-crm-js-translation.php:97
+msgid "WSDesk Restore Alert"
+msgstr "Alerte de restauration WSDesk"
+
+#: includes/class-crm-js-translation.php:98
+msgid "Keep Calm while Restoring Data. Don\\'t Refresh the Page"
+msgstr ""
+"Gardez le calme lors de la restauration des données. Don\\ ' t actualiser la "
+"Page"
+
+#: includes/class-crm-js-translation.php:99
+msgid "Yes! I Will Wait"
+msgstr "Oui ! Je vais attendre"
+
+#: includes/class-crm-js-translation.php:100
+msgid "Restore Finished"
+msgstr "Restauration fini"
+
+#: includes/class-crm-js-translation.php:101
+msgid "Refresh and Hit to go"
+msgstr "Actualisation et cliquez sur aller"
+
+#: includes/class-crm-js-translation.php:102
+msgid "Select a Backup File"
+msgstr "Sélectionnez un fichier de sauvegarde"
+
+#: includes/class-crm-js-translation.php:103
+msgid "Specify the Mail Subject"
+msgstr "Spécifier le sujet"
+
+#: includes/class-crm-js-translation.php:104
+msgid "Enter mail subject"
+msgstr "Objet :"
+
+#: includes/class-crm-js-translation.php:105
+msgid "Codes for Notification EMail"
+msgstr "Codes pour la Notification par courrier électronique"
+
+#: includes/class-crm-js-translation.php:106
+msgid "To Insert Ticket Number in the notification email"
+msgstr "Pour insérer un numéro de Ticket dans l’e-mail de notification"
+
+#: includes/class-crm-js-translation.php:107
+msgid "To Insert Ticket Assignee in the notification email"
+msgstr "À insérer billets cessionnaire dans l’e-mail de notification"
+
+#: includes/class-crm-js-translation.php:108
+msgid "To Insert Ticket Tags in the notification mail"
+msgstr "Pour insérer des balises de billet dans le mail de notification"
+
+#: includes/class-crm-js-translation.php:109
+msgid "To Insert Ticket Date and Time in the notification email"
+msgstr "Insérer billet Date et heure dans l’e-mail de notification"
+
+#: includes/class-crm-js-translation.php:110
+msgid "To Insert Ticket Content in the notification email"
+msgstr "Pour insérer des billets contenu dans l’e-mail de notification"
+
+#: includes/class-crm-js-translation.php:111
+msgid "To Insert Satisfaction URL in the notification email"
+msgstr "Pour insérer des URL de Satisfaction dans l’e-mail de notification"
+
+#: includes/class-crm-js-translation.php:112
+msgid "To Insert Conversation History in the notification email"
+msgstr ""
+
+#: includes/class-crm-js-translation.php:113
+msgid ""
+"Note : For Satisfaction Survey place the [wsdesk_satisfaction] shortcode in "
+"new page."
+msgstr ""
+"Remarque : Pour le sondage sur la Satisfaction, placer le shortcode "
+"[wsdesk_satisfaction] dans la nouvelle page."
+
+#: includes/class-crm-js-translation.php:114
+msgid "Specify the Mail Body"
+msgstr "Spécifier le corps du message"
+
+#: includes/class-crm-js-translation.php:115
+msgid "Enter mail body"
+msgstr "Entrez le corps du message"
+
+#: includes/class-crm-js-translation.php:116
+msgid "Select Action Values"
+msgstr "Sélectionnez valeurs déclenchant l’Action"
+
+#: includes/class-crm-js-translation.php:122
+msgid "WSDesk Alert"
+msgstr "WSDesk alerte"
+
+#: includes/class-crm-js-translation.php:123
+msgid "Do You want to Delete Ticket?"
+msgstr "Voulez vous supprimer les billets ?"
+
+#: includes/class-crm-js-translation.php:124
+msgid "Yes! Delete"
+msgstr "Oui , je le supprime !"
+
+#: includes/class-crm-js-translation.php:125
+msgid "WSDesk Tickets Notification"
+msgstr "Notification de billets WSDesk"
+
+#: includes/class-crm-js-translation.php:126
+msgid "Tickets Deleted Successfully"
+msgstr "Billets supprimés avec succès"
+
+#: includes/class-crm-js-translation.php:127
+msgid "Do You want to Update Tickets Status?"
+msgstr "Vous voulez Update Status de billets ?"
+
+#: includes/class-crm-js-translation.php:128
+msgid "Yes! Update"
+msgstr "Oui ! Mise à jour"
+
+#: includes/class-crm-js-translation.php:129
+msgid "Tickets Updated Successfully"
+msgstr "Billets mis à jour avec succès"
+
+#: includes/class-crm-js-translation.php:130
+msgid "New Ticket Created Successfully"
+msgstr "Nouveau billet créé avec succès"
+
+#: includes/class-crm-js-translation.php:131
+msgid "missing some data"
+msgstr "certaines données manquantes"
+
+#: includes/class-crm-js-translation.php:132
+msgid "Replied Successfully"
+msgstr "A répondu avec succès"
+
+#: includes/class-crm-js-translation.php:133
+msgid "needs reply content"
+msgstr "besoin de contenu de la réponse"
+
+#: includes/class-crm-js-translation.php:134
+msgid "No results found"
+msgstr "Aucun résultat trouvé"
+
+#: includes/class-crm-js-translation.php:135
+msgid "Select Tag"
+msgstr "Choisir le mot-clé"
+
+#: includes/class-crm-js-translation.php:136
+msgid "No Tags Tagged"
+msgstr "Aucune balise taggés"
+
+#: includes/class-crm-js-translation.php:142
+msgid "Search - (Eg:Support)"
+msgstr "Recherche - (par exemple : prise en charge)"
+
+#: includes/class-crm-js-translation.php:144
+msgid "Select existing users"
+msgstr "Sélectionnez les utilisateurs existants"
+
+#: includes/class-crm-js-translation.php:145
+msgid "No Users Found"
+msgstr "aucun utilisateur trouvé"
+
+#: includes/class-crm-js-translation.php:146
+msgid "Add Agents"
+msgstr "Ajouter des Agents"
+
+#: includes/class-crm-js-translation.php:147
+msgid "Manage Agents"
+msgstr "Gérer les agents"
+
+#: includes/class-crm-js-translation.php:148 views/agents/crm_agents_add.php:66
+#: views/agents/crm_agents_main.php:7 views/welcome/welcome.php:50
+msgid "WSDesk Agents"
+msgstr "WSDesk Agents"
+
+#: includes/class-crm-js-translation.php:149
+msgid "Agents Updated Successfully"
+msgstr "Mis à jour avec succès des agents"
+
+#: includes/class-crm-js-translation.php:150
+msgid "Agents Removed Successfully"
+msgstr "Agents de supprimé avec succès"
+
+#: includes/class-crm-js-translation.php:151
+msgid "Agents added Successfully"
+msgstr "Agents a ajouté avec succès"
+
+#: includes/class-crm-js-translation.php:152
+msgid "Show Settings Page"
+msgstr "Page des réglages"
+
+#: includes/class-crm-js-translation.php:153
+msgid "Show Agents Page"
+msgstr "Afficher 'Agents' de l'annonce"
+
+#: includes/class-crm-js-translation.php:154
+msgid "Show Email Page"
+msgstr "Afficher l'email"
+
+#: includes/class-crm-js-translation.php:155
+msgid "Show Import Page"
+msgstr "Importer la page"
+
+#: includes/class-crm-js-translation.php:161 views/crm_email_view.php:15
+msgid "Google OAuth Setup"
+msgstr "Google OAuth Setup"
+
+#: includes/class-crm-js-translation.php:162 views/crm_email_view.php:18
+msgid "IMAP EMail Setup"
+msgstr "Configuration de l'e-mail"
+
+#: includes/class-crm-js-translation.php:163 views/crm_email_view.php:12
+msgid "Support Email"
+msgstr "Email du support"
+
+#: includes/class-crm-js-translation.php:164 views/crm_email_view.php:21
+msgid "EMail Filter & Block"
+msgstr "Filtre de courrier & bloc"
+
+#: includes/class-crm-js-translation.php:165
+msgid "Select EMail"
+msgstr "Sélectionnez des courriels"
+
+#: includes/class-crm-js-translation.php:166
+msgid "No Address Found"
+msgstr "Aucune adresse trouvée"
+
+#: includes/class-crm-js-translation.php:167
+msgid "Block Email"
+msgstr "Email de bloc"
+
+#: includes/class-crm-js-translation.php:168
+msgid "Enter Email to Block"
+msgstr "Entrez l’Email au bloc"
+
+#: includes/class-crm-js-translation.php:169
+msgid "Google OAuth Revoked"
+msgstr "Google OAuth révoqué"
+
+#: includes/class-crm-js-translation.php:170
+msgid "IMAP EMail Deactivated"
+msgstr "E-mail désactivé"
+
+#: includes/class-crm-js-translation.php:177
+msgid "Select Products for Reports"
+msgstr "Sélection de produits pour les rapports"
+
+#: includes/class-crm-js-translation.php:178
+msgid "No Products Found"
+msgstr "Aucun produit trouvé"
+
+#: includes/class-crm-js-translation.php:179
+msgid "Select Category for Reports"
+msgstr "Sélectionnez la catégorie de rapports"
+
+#: includes/class-crm-js-translation.php:180
+msgid "No Category Found"
+msgstr "Aucune catégorie trouvée"
+
+#: includes/class-crm-js-translation.php:186 views/crm_import_view.php:5
+#: views/crm_import_view.php:12
+msgid "From Zendesk"
+msgstr "De Zendesk"
+
+#: includes/class-crm-js-translation.php:187
+msgid "Zendesk Import"
+msgstr "Zendesk Import"
+
+#: includes/class-crm-js-translation.php:188
+msgid "Tickets Import Successful"
+msgstr "Billets d’importation réussie"
+
+#: includes/class-crm-js-translation.php:189
+msgid "Something Went Wrong"
+msgstr "Queque chose a mal tournée!"
+
+#: includes/class-crm-js-translation.php:190
+msgid "Import Stopped Manually"
+msgstr "Importation arrêtée manuellement"
+
+#: views/agents/crm_agents_add.php:25
+msgid "Add Users"
+msgstr "Ajouter des utilisateurs"
+
+#: views/agents/crm_agents_add.php:29
+msgid "Create new user"
+msgstr "Créer un nouvel utilisateur"
+
+#: views/agents/crm_agents_add.php:49
+msgid "User Email"
+msgstr "Email de l'utilisateur"
+
+#: views/agents/crm_agents_add.php:53 views/email/crm_imap_setup.php:53
+#: views/settings/crm_settings_fields.php:104
+msgid "Password"
+msgstr "Mot de passe"
+
+#: views/agents/crm_agents_add.php:61
+msgid "WSDesk Role"
+msgstr "Rôle de WSDesk"
+
+#: views/agents/crm_agents_add.php:64
+msgid "Roles for the selected users"
+msgstr "Rôles pour les utilisateurs sélectionnés"
+
+#: views/agents/crm_agents_add.php:67
+msgid "WSDesk Supervisor"
+msgstr "Surveillant WSDesk"
+
+#: views/agents/crm_agents_add.php:73
+msgid "WSDesk Rights"
+msgstr "Droits de le WSDesk"
+
+#: views/agents/crm_agents_add.php:76
+msgid "User(s) are entitled to the following rights"
+msgstr "Utilisateur (s) ont le droit aux droits suivants"
+
+#: views/agents/crm_agents_add.php:78
+msgid "Reply to Tickets"
+msgstr "Répondre à billets"
+
+#: views/agents/crm_agents_add.php:79 views/agents/crm_agents_manage.php:48
+msgid "Delete Tickets"
+msgstr "Supprimer les Tickets"
+
+#: views/agents/crm_agents_add.php:80 views/agents/crm_agents_manage.php:51
+msgid "Manage Tickets"
+msgstr "Gérer Tickets"
+
+#: views/agents/crm_agents_add.php:86
+msgid "Add tags"
+msgstr "Ajouter des tags"
+
+#: views/agents/crm_agents_add.php:89
+msgid ""
+"Depending on the tags, the tickets will be assigned automatically to the "
+"default assignee"
+msgstr ""
+"Selon les balises, les billets on attribuera automatiquement au cessionnaire "
+"par défaut"
+
+#: views/agents/crm_agents_add.php:98 views/email/crm_email_support.php:137
+#: views/email/crm_filter_block_setup.php:58
+#: views/settings/crm_settings_appearance.php:71
+#: views/settings/crm_settings_fields.php:133
+#: views/settings/crm_settings_general.php:158
+#: views/settings/crm_settings_labels.php:76
+msgid "Save Changes"
+msgstr "Sauvegarder"
+
+#: views/agents/crm_agents_add.php:99 views/email/crm_filter_block_setup.php:42
+#: views/settings/crm_settings_fields.php:96
+#: views/settings/crm_settings_fields.php:124
+#: views/settings/crm_settings_labels.php:45
+#: views/settings/crm_settings_labels.php:68
+#: views/settings/crm_settings_tags.php:66
+msgid "Cancel"
+msgstr "Annuler"
+
+#: views/agents/crm_agents_main.php:8
+msgid "Add Agent / Supervisor"
+msgstr "Ajouter Agent / superviseur"
+
+#: views/agents/crm_agents_manage.php:45
+msgid "Reply Tickets"
+msgstr "Réponse de billets"
+
+#: views/agents/crm_agents_manage.php:54
+msgid "Settings Manage"
+msgstr "Gérer les paramètres"
+
+#: views/agents/crm_agents_manage.php:57
+msgid "Agents Manage"
+msgstr "Gérer les agents"
+
+#: views/agents/crm_agents_manage.php:63
+msgid "No Capabilities Assigned"
+msgstr "Aucune capacité assignées"
+
+#: views/agents/crm_agents_manage.php:79 views/agents/crm_agents_manage.php:83
+msgid "No Tags Mapped"
+msgstr "Aucune balise mappé"
+
+#: views/agents/crm_agents_manage.php:129
+msgid "Roles"
+msgstr "Rôles"
+
+#: views/agents/crm_agents_manage.php:130
+#: views/settings/crm_settings_fields.php:109
+msgid "Email"
+msgstr "Email"
+
+#: views/agents/crm_agents_manage.php:131
+msgid "Capability"
+msgstr "Capacité"
+
+#: views/agents/crm_agents_manage.php:151
+msgid "Overall Replies"
+msgstr "Réponses globales"
+
+#: views/agents/crm_agents_manage.php:152
+msgid "Edit Profile"
+msgstr "Modifier le profil"
+
+#: views/agents/crm_agents_manage.php:156
+msgid "Tickets Assigned"
+msgstr "Billets assignés"
+
+#: views/agents/crm_agents_manage.php:157
+msgid "View Reports"
+msgstr "Afficher les rapports"
+
+#: views/agents/crm_agents_manage.php:161
+msgid "Support Rating"
+msgstr "Justifiez votre évaluation :"
+
+#: views/agents/crm_agents_manage.php:164 views/tickets/crm_tickets_all.php:376
+msgid "Actions"
+msgstr "Actions"
+
+#: views/agents/crm_agents_manage.php:167
+msgid "Remove WSDesk Role"
+msgstr "Supprimez le rôle de WSDesk"
+
+#: views/agents/crm_agents_manage.php:188
+msgid "No WSDesk role assigned to any users / No Agents added"
+msgstr ""
+"Aucun rôle WSDesk n’assignés à tous les utilisateurs / sans Agents ajouté"
+
+#: views/crm_email_view.php:4
+msgid "WSDesk E-Mail"
+msgstr "Courriel WSDesk"
+
+#: views/crm_email_view.php:5
+msgid "Setup Guides"
+msgstr "Guides d'installation"
+
+#: views/crm_import_view.php:4
+msgid "Import Tickets"
+msgstr "Importer des billets"
+
+#: views/crm_reports_view.php:46
+msgid "WSDesk Reports"
+msgstr "WSDesk rapports"
+
+#: views/crm_reports_view.php:49
+msgid "Select the Agents/Supervisors to show report"
+msgstr "Sélectionnez les Agents/superviseurs de montrer le rapport ?"
+
+#: views/crm_reports_view.php:74
+msgid "Show Report"
+msgstr "Afficher le rapport"
+
+#: views/crm_reports_view.php:84
+msgid "Last 7 Days status of new tickets :"
+msgstr "Dernier état de 7 jours de nouveaux tickets"
+
+#: views/crm_reports_view.php:104
+msgid "Last 7 Days status of Agent Tickets :"
+msgstr "Dernier état de 7 jours de l’Agent de billets"
+
+#: views/crm_reports_view.php:151
+msgid "Last 7 Days status of New and Solved Tickets :"
+msgstr "Dernier état de 7 jours de New et billets résolu"
+
+#: views/crm_settings_view.php:27
+msgid "Premium Upgrade"
+msgstr "Mise à niveau Prémium"
+
+#: views/crm_tickets_view.php:9
+msgid "All Tickets"
+msgstr "Tous les tickets"
+
+#: views/crm_tickets_view.php:14
+msgid "More"
+msgstr "Détails"
+
+#: views/crm_tickets_view.php:21
+msgid "New Ticket"
+msgstr "Nouveau billet"
+
+#: views/crm_tickets_view.php:27
+msgid "Search"
+msgstr "Recherche - (par exemple : prise en charge)"
+
+#: views/crm_tickets_view.php:27
+msgid "Search Tickets"
+msgstr "Recherche de billets"
+
+#: views/email/crm_email_support.php:23
+msgid "Support Reply Email Name"
+msgstr "Entrez votre nom d’Email de réponse Support"
+
+#: views/email/crm_email_support.php:24
+msgid "Enter name"
+msgstr "Inscrivez le nom"
+
+#: views/email/crm_email_support.php:30
+msgid "Support Reply Email"
+msgstr "Entrez votre nom d’Email de réponse soutien ?"
+
+#: views/email/crm_email_support.php:31
+msgid "Enter Email"
+msgstr "Introduisez votre courrier électronique"
+
+#: views/email/crm_email_support.php:41
+msgid "Available ShortCodes for Agent Reply Email"
+msgstr ""
+
+#: views/email/crm_email_support.php:52
+msgid "To Insert Ticket Number in the Reply"
+msgstr "Pour insérer le numéro du billet dans la réponse"
+
+#: views/email/crm_email_support.php:61
+msgid "To Insert Ticket Assignee in the Reply"
+msgstr "Pour insérer le billet cessionnaire dans la réponse"
+
+#: views/email/crm_email_support.php:70
+msgid "To Insert Ticket Tags in the Reply"
+msgstr "Pour insérer des balises de billet dans la réponse"
+
+#: views/email/crm_email_support.php:79
+msgid "To Insert Ticket Date and Time in the Reply"
+msgstr "Pour insérer le billet Date et l’heure dans la réponse"
+
+#: views/email/crm_email_support.php:88
+msgid "To Insert Ticket Content in the Reply"
+msgstr "Pour insérer du contenu du billet dans la réponse"
+
+#: views/email/crm_email_support.php:97
+msgid "To Insert Ticket Agent who replied in the Reply"
+msgstr "Pour insérer des Agent de billetterie qui ont répondu à la réponse"
+
+#: views/email/crm_email_support.php:106
+msgid "To Insert Ticket Status in the Reply"
+msgstr "Pour insérer le statut du Ticket dans la réponse"
+
+#: views/email/crm_email_support.php:117
+msgid "Enter your agent reply mail format"
+msgstr "Entrez votre format de courrier de réponse agent"
+
+#: views/email/crm_filter_block_setup.php:15
+msgid "Blocked Emails"
+msgstr "Adresses courriel bloqués :"
+
+#: views/email/crm_filter_block_setup.php:16
+#: views/email/crm_filter_block_setup.php:41
+msgid "Add Filter"
+msgstr "Ajouter un filtre"
+
+#: views/email/crm_filter_block_setup.php:25
+msgid "Delete Filter"
+msgstr "Supprimer le filtre"
+
+#: views/email/crm_filter_block_setup.php:31
+msgid "There are no blocked email ! Block a new Email."
+msgstr "Il n’y a aucun e-mail bloqué ! Bloquer un nouvel email."
+
+#: views/email/crm_filter_block_setup.php:46
+msgid "Enter Details for New Block Address?"
+msgstr "Entrer dans les détails pour la nouvelle adresse de bloc ?"
+
+#: views/email/crm_filter_block_setup.php:47
+msgid "Enter Email or matchcase"
+msgstr ""
+
+#: views/email/crm_filter_block_setup.php:48
+msgid "Choose the blocking type?."
+msgstr "Choisissez le type de blocage ?."
+
+#: views/email/crm_filter_block_setup.php:50
+msgid "Block Sending Emails"
+msgstr "Bloquer l’envoi de courriels"
+
+#: views/email/crm_filter_block_setup.php:51
+msgid "Block Receiving Emails"
+msgstr "Bloc de recevoir des courriels"
+
+#: views/email/crm_imap_setup.php:17
+msgid ""
+"IMAP is not enabled on your server. Please contact your service provider."
+msgstr ""
+"IMAP pas activé sur votre serveur. Veuillez communiquer avec votre "
+"fournisseur de services"
+
+#: views/email/crm_imap_setup.php:20
+msgid "Have a Google account?"
+msgstr ""
+
+#: views/email/crm_imap_setup.php:20
+msgid "Use WSDesk Google OAuth setup."
+msgstr "Utilisez les paramètres Google OAuth WSDesk."
+
+#: views/email/crm_imap_setup.php:35
+msgid "IMAP Server SSL URL"
+msgstr "Entrez votre URL SSL du serveur IMAP"
+
+#: views/email/crm_imap_setup.php:41
+msgid "IMAP Server SSL Port"
+msgstr "Entrez votre Port SSL du serveur IMAP ?"
+
+#: views/email/crm_imap_setup.php:47
+msgid "Email-ID"
+msgstr "ID Email"
+
+#: views/email/crm_imap_setup.php:64
+msgid "Deactivate IMAP"
+msgstr "Désactiver l’IMAP"
+
+#: views/email/crm_imap_setup.php:71
+msgid "Activate IMAP"
+msgstr "Activer IMAP"
+
+#: views/email/crm_imap_setup.php:75
+msgid "How to setup IMAP"
+msgstr "Comment configurer IMAP"
+
+#: views/email/crm_oauth_setup.php:12
+msgid "Google API client ID"
+msgstr "Entrez votre ID client Google."
+
+#: views/email/crm_oauth_setup.php:18
+msgid "Google API Client Secret"
+msgstr "Entrez votre client secret Google."
+
+#: views/email/crm_oauth_setup.php:28
+msgid "Access Token"
+msgstr "Access Token"
+
+#: views/email/crm_oauth_setup.php:34
+msgid "Refresh Token"
+msgstr "Rafraîchir Données"
+
+#: views/email/crm_oauth_setup.php:47
+msgid "Deactivate OAuth"
+msgstr "Désactiver OAuth"
+
+#: views/email/crm_oauth_setup.php:53
+msgid "Activate OAuth"
+msgstr "Activer OAuth"
+
+#: views/email/crm_oauth_setup.php:57
+msgid "How to setup OAuth"
+msgstr "Comment configurer OAuth"
+
+#: views/import/crm_zendesk_import.php:24
+msgid "Activate Zendesk Import to Get all Zendesk Tickets"
+msgstr "Activer Zendesk importer pour obtenir tous les billets Zendesk"
+
+#: views/import/crm_zendesk_import.php:25
+#: views/import/crm_zendesk_import.php:68
+msgid "Activate Zendesk"
+msgstr "Activer Zendesk"
+
+#: views/import/crm_zendesk_import.php:37
+msgid "Importing Tickets may take some time..."
+msgstr "Importer des billets peut prendre un certain temps..."
+
+#: views/import/crm_zendesk_import.php:40
+msgid "Completed"
+msgstr "Terminé"
+
+#: views/import/crm_zendesk_import.php:48
+msgid "Stop Pulling Tickets to WSDesk"
+msgstr "Arrêter de tirer des billets pour WSDesk"
+
+#: views/import/crm_zendesk_import.php:49
+msgid "Stoping Zendesk import..."
+msgstr "Effondrements Zendesk import..."
+
+#: views/import/crm_zendesk_import.php:49
+msgid "Stop Import"
+msgstr "Arrêter l'importation"
+
+#: views/import/crm_zendesk_import.php:55
+msgid "What is your plan in Zendesk?"
+msgstr "Quel est votre plan en Zendesk ?"
+
+#: views/import/crm_zendesk_import.php:55
+msgid "Importing speed depends on your plan"
+msgstr "Importation de vitesse dépend de votre plan"
+
+#: views/import/crm_zendesk_import.php:57
+msgid "Essential"
+msgstr "Essentiel"
+
+#: views/import/crm_zendesk_import.php:58
+msgid "Team"
+msgstr "Notre équipe"
+
+#: views/import/crm_zendesk_import.php:59
+msgid "Professional"
+msgstr "Professionnel"
+
+#: views/import/crm_zendesk_import.php:60
+msgid "Enterprise"
+msgstr "Entreprise"
+
+#: views/import/crm_zendesk_import.php:61
+msgid "High Volume API Add-On (Professional or Enterprise)"
+msgstr ""
+
+#: views/import/crm_zendesk_import.php:67
+msgid "Enter your Zendesk Access Token"
+msgstr "Entrez votre jeton d’accès Zendesk"
+
+#: views/import/crm_zendesk_import.php:73
+msgid "Enter your Zendesk Subdomain"
+msgstr ""
+
+#: views/import/crm_zendesk_import.php:74
+msgid "Zendesk Subdomain"
+msgstr "Sous-domaine Zendesk"
+
+#: views/import/crm_zendesk_import.php:79
+msgid "Enter your Zendesk Username"
+msgstr "Entrez votre Zendesk Username"
+
+#: views/import/crm_zendesk_import.php:80
+msgid "Zendesk Username"
+msgstr "Nom d’utilisateur Zendesk"
+
+#: views/import/crm_zendesk_import.php:85
+msgid "Want to download attachment locally?"
+msgstr "Vous souhaitez télécharger la pièce jointe sur place ?"
+
+#: views/import/crm_zendesk_import.php:87
+msgid "Yes! Download"
+msgstr "Oui ! Télécharger"
+
+#: views/import/crm_zendesk_import.php:88
+msgid " No! I do not want"
+msgstr "Je ne veux"
+
+#: views/import/crm_zendesk_import.php:95
+msgid "Pull Tickets to WSDesk"
+msgstr "Tirer des billets pour WSDesk"
+
+#: views/import/crm_zendesk_import.php:96
+msgid "Pull Tickets"
+msgstr "Tirez sur les billets"
+
+#: views/settings/crm_settings_appearance.php:15
+#: views/support/crm_support_new.php:45 views/support/crm_support_page.php:11
+msgid "Submit Request"
+msgstr "Demande de retrait"
+
+#: views/settings/crm_settings_appearance.php:16
+#: views/support/crm_support_new.php:50
+msgid "Reset Request"
+msgstr "Demande de réinitialisation"
+
+#: views/settings/crm_settings_appearance.php:17
+#: views/support/crm_support_new.php:55 views/support/crm_support_page.php:15
+msgid "Check your Existing Request"
+msgstr "Vérifiez votre demande existante"
+
+#: views/settings/crm_settings_appearance.php:22
+msgid "Set custom width for form elements"
+msgstr "Définissez la largeur personnalisé pour les éléments de formulaire"
+
+#: views/settings/crm_settings_appearance.php:29
+msgid "Support Form Title"
+msgstr "Nouveau titre de formulaire de soutien"
+
+#: views/settings/crm_settings_appearance.php:33
+msgid "Set custom title for the main support form"
+msgstr "Définir un titre personnalisé pour le formulaire principal soutien"
+
+#: views/settings/crm_settings_appearance.php:34
+msgid "Contact Support"
+msgstr "Contacter l’assistance"
+
+#: views/settings/crm_settings_appearance.php:39
+msgid "Set custom title for new support form"
+msgstr "Définir un titre personnalisé pour la nouvelle forme de soutien"
+
+#: views/settings/crm_settings_appearance.php:40
+msgid "Report Issue"
+msgstr "Signaler un problème"
+
+#: views/settings/crm_settings_appearance.php:45
+msgid "Set custom title for the existing form"
+msgstr "Définir un titre personnalisé pour le formulaire existant"
+
+#: views/settings/crm_settings_appearance.php:46
+msgid "Your Tickets"
+msgstr "Vos billets"
+
+#: views/settings/crm_settings_appearance.php:49
+msgid "Support Form Button"
+msgstr "Bouton de formulaire de soutien"
+
+#: views/settings/crm_settings_appearance.php:53
+msgid "Set custom text for the Submit Request button"
+msgstr "Mettre un texte personnalisé pour le bouton Submit Request"
+
+#: views/settings/crm_settings_appearance.php:59
+msgid "Set custom text for the Reset Request button"
+msgstr "Mettre un texte personnalisé pour le bouton Reset Request"
+
+#: views/settings/crm_settings_appearance.php:65
+msgid "Set custom text for the Check Existing Ticket button"
+msgstr ""
+"Mettre un texte personnalisé pour le bouton vérifier les billets existants"
+
+#: views/settings/crm_settings_fields.php:31
+#: views/settings/crm_settings_fields.php:95
+msgid "Add Field"
+msgstr "Ajouter un champ"
+
+#: views/settings/crm_settings_fields.php:36
+msgid "Inactive Fields"
+msgstr "Champs Inactifs"
+
+#: views/settings/crm_settings_fields.php:58
+msgid "Active Fields"
+msgstr "Champs Actifs"
+
+#: views/settings/crm_settings_fields.php:100
+msgid "Which type of field do you need?"
+msgstr "Quel type de terrain avez-vous besoin ?"
+
+#: views/settings/crm_settings_fields.php:102
+msgid "Select the Type of Field"
+msgstr "Sélectionnez le Type de champ"
+
+#: views/settings/crm_settings_fields.php:103
+msgid "Text Box"
+msgstr "Bloc texte"
+
+#: views/settings/crm_settings_fields.php:105
+msgid "Select"
+msgstr "Sélectionnez l’étiquette d’assigner"
+
+#: views/settings/crm_settings_fields.php:106
+msgid "Radio"
+msgstr "Radio"
+
+#: views/settings/crm_settings_fields.php:107
+msgid "Checkbox"
+msgstr "Case à cocher"
+
+#: views/settings/crm_settings_fields.php:108
+msgid "Number"
+msgstr "Numéro du billet non valide"
+
+#: views/settings/crm_settings_fields.php:110
+msgid "Text Area"
+msgstr "Zone de texte"
+
+#: views/settings/crm_settings_fields.php:111
+#: views/tickets/crm_tickets_all.php:449
+msgid "Attachment"
+msgstr "Pièce jointe"
+
+#: views/settings/crm_settings_fields.php:123
+msgid "Edit Field"
+msgstr "Modifier le champ"
+
+#: views/settings/crm_settings_general.php:27
+msgid "Default Assignee"
+msgstr "Assigné par défaut à"
+
+#: views/settings/crm_settings_general.php:30
+msgid "Choose default assignee for new tickets"
+msgstr "Choisissez le cessionnaire par défaut pour les nouveaux billets"
+
+#: views/settings/crm_settings_general.php:67
+msgid "Choose default status for new tickets"
+msgstr "Choisir le statut par défaut pour les nouveaux billets"
+
+#: views/settings/crm_settings_general.php:87
+msgid "Tickets Raisers"
+msgstr "Éleveurs de billets"
+
+#: views/settings/crm_settings_general.php:90
+msgid "Who can raise the tickets?"
+msgstr "Qui peut soulever les billets ?"
+
+#: views/settings/crm_settings_general.php:115
+msgid "All"
+msgstr "Tout"
+
+#: views/settings/crm_settings_general.php:116
+msgid "Registerd Users"
+msgstr "Registerd utilisateurs"
+
+#: views/settings/crm_settings_general.php:117
+msgid "Guest Users"
+msgstr "Tous utilisateurs"
+
+#: views/settings/crm_settings_general.php:124
+msgid "Tickets Row"
+msgstr "Ligne de billets"
+
+#: views/settings/crm_settings_general.php:127
+msgid "Number of tickets per page"
+msgstr "Nombre de places quotidiennes disponibles"
+
+#: views/settings/crm_settings_general.php:134
+msgid "Create WordPress User"
+msgstr "Créer l’utilisateur WordPress"
+
+#: views/settings/crm_settings_general.php:137
+msgid ""
+"Create wordpress user while guest user submitting the tickets through the "
+"form"
+msgstr ""
+"Créer utilisateur wordpress tout utilisateur invité soumettant les billets "
+"par l’intermédiaire de la forme"
+
+#: views/settings/crm_settings_general.php:151
+msgid "Enable"
+msgstr "Activer"
+
+#: views/settings/crm_settings_labels.php:14
+#: views/settings/crm_settings_labels.php:44
+msgid "Add Status"
+msgstr "Nouveau statut"
+
+#: views/settings/crm_settings_labels.php:49
+msgid "Enter Details for new status"
+msgstr "Entrez les détails pour le nouveau statut"
+
+#: views/settings/crm_settings_labels.php:51
+msgid "Do you want to change the status color?."
+msgstr "Vous voulez changer la couleur de l’étiquette ?"
+
+#: views/settings/crm_settings_labels.php:53
+msgid "Click and Pick the Color"
+msgstr "Cliquer sur et sélectionner la couleur"
+
+#: views/settings/crm_settings_labels.php:55
+msgid "Want to use this status for filter tickets?"
+msgstr "Vous voulez utiliser ce statut à filtre billets ?"
+
+#: views/settings/crm_settings_labels.php:56
+msgid "Yes! I will use it for Filter"
+msgstr "Oui ! Je vais l’utiliser pour le filtre"
+
+#: views/settings/crm_settings_labels.php:67
+msgid "Edit Status"
+msgstr "Modifier l’état"
+
+#: views/settings/crm_settings_premium.php:30 views/welcome/welcome.php:465
+msgid "Premium WSDesk Features"
+msgstr "Fonctions Premium WSDesk"
+
+#: views/settings/crm_settings_premium.php:40 views/welcome/welcome.php:479
+msgid "Auto Tagging And Assigning"
+msgstr "Produits de remplissage automatique"
+
+#: views/settings/crm_settings_premium.php:44 views/welcome/welcome.php:483
+msgid "Auto Suggestion System"
+msgstr "système de suggestion"
+
+#: views/settings/crm_settings_premium.php:48 views/welcome/welcome.php:487
+msgid "Ticket Custom Views"
+msgstr "Billet de vues personnalisées"
+
+#: views/settings/crm_settings_premium.php:56 views/welcome/welcome.php:495
+msgid "Customer Feedback Survey"
+msgstr "Client Feedback Survey"
+
+#: views/settings/crm_settings_premium.php:60 views/welcome/welcome.php:499
+msgid "Agent's Satisfaction Rating"
+msgstr "Taux de Satisfaction de l’agent"
+
+#: views/settings/crm_settings_premium.php:64 views/welcome/welcome.php:503
+msgid "WooCommerce Fields & Reports"
+msgstr ""
+
+#: views/settings/crm_settings_premium.php:68 views/welcome/welcome.php:507
+msgid "WSDesk Backup & Restore"
+msgstr "Sauvegarde de WSDesk & restauration"
+
+#: views/settings/crm_settings_premium.php:72 views/welcome/welcome.php:511
+msgid "One Year Support & Updates"
+msgstr "Un an d’assistance & mises à jour"
+
+#: views/settings/crm_settings_premium.php:76 views/welcome/welcome.php:515
+msgid "Many more on its way"
+msgstr ""
+
+#: views/settings/crm_settings_premium.php:85 views/welcome/welcome.php:527
+msgid "Do you want to get all the features or want to see the demo?"
+msgstr ""
+
+#: views/settings/crm_settings_premium.php:88 views/welcome/welcome.php:528
+msgid "Start over with Pro Version"
+msgstr ""
+
+#: views/settings/crm_settings_premium.php:89 views/welcome/welcome.php:529
+msgid "See Live Demo of Pro Version"
+msgstr "Voir la démonstration en direct de la Version Pro"
+
+#: views/settings/crm_settings_tags.php:14
+#: views/settings/crm_settings_tags.php:41
+msgid "Add Tag"
+msgstr "Ajouter une catégorie"
+
+#: views/settings/crm_settings_tags.php:31
+msgid "There are no Tags! Create One Tag."
+msgstr "Il n’y a aucune balise ! Créez une balise."
+
+#: views/settings/crm_settings_tags.php:47
+msgid "Enter Details for New Tag"
+msgstr "Entrer dans les détails pour un nouveau Tag ?"
+
+#: views/settings/crm_settings_tags.php:49
+msgid "Select the Post which should be Tagged if required"
+msgstr "Sélectionnez le poste qui doit être référencée si nécessaire ?"
+
+#: views/settings/crm_settings_tags.php:52
+msgid "Want to use this Tag for Filter Tickets"
+msgstr "Vous souhaitez utiliser cette balise pour filtre billets ?"
+
+#: views/settings/crm_settings_tags.php:65
+msgid "Edit Tag"
+msgstr "Editer un tag"
+
+#: views/settings/crm_settings_tags.php:74
+msgid "Save Ticket tags"
+msgstr "Sauvegarder le ticket"
+
+#: views/support/crm_support_new.php:15
+msgid "You must Login to Raise Ticket"
+msgstr "Vous devez Login pour soulever les billets"
+
+#: views/support/crm_support_new.php:15
+msgid "Login"
+msgstr "Connexion"
+
+#: views/support/crm_support_new.php:16
+msgid "Need an Account"
+msgstr "Besoin d’un compte ?"
+
+#: views/support/crm_support_new.php:16
+msgid "Register"
+msgstr "S'enregister"
+
+#: views/support/crm_support_new.php:146
+msgid "Submitting..."
+msgstr "Soumission en cours…"
+
+#: views/support/crm_support_new.php:161
+msgid "Powered by"
+msgstr "Créé par"
+
+#: views/support/crm_support_page.php:21
+msgid "Fetching Request Form..."
+msgstr "Aller chercher le formulaire de demande..."
+
+#: views/support/crm_support_page.php:26
+msgid "Loading your Request..."
+msgstr "Chargement de votre demande..."
+
+#: views/tickets/crm_tickets_all.php:92
+msgid "Unassigned"
+msgstr "Non assigné"
+
+#: views/tickets/crm_tickets_all.php:164
+msgid "No Actions"
+msgstr "Aucune mesure"
+
+#: views/tickets/crm_tickets_all.php:188
+msgid "Tickets Filter"
+msgstr "Filtre de tickets"
+
+#: views/tickets/crm_tickets_all.php:199
+msgid "Previous"
+msgstr "Previous"
+
+#: views/tickets/crm_tickets_all.php:210
+msgid "Next"
+msgstr "Suivant"
+
+#: views/tickets/crm_tickets_all.php:220
+msgid "Filter Tickets"
+msgstr "Filtrer les billets"
+
+#: views/tickets/crm_tickets_all.php:226
+msgid "View"
+msgstr "Voir"
+
+#: views/tickets/crm_tickets_all.php:228
+msgid "Requester"
+msgstr "Demandeur"
+
+#: views/tickets/crm_tickets_all.php:229
+msgid "Subject"
+msgstr "Sujet"
+
+#: views/tickets/crm_tickets_all.php:230
+msgid "Requested"
+msgstr "Demandé"
+
+#: views/tickets/crm_tickets_all.php:239
+msgid "No Tickets"
+msgstr "Plus de tickets"
+
+#: views/tickets/crm_tickets_all.php:377
+msgid "Reply Requester"
+msgstr "Demandeur de la réponse"
+
+#: views/tickets/crm_tickets_all.php:378
+msgid "Raiser Voices"
+msgstr "Voix de Raiser"
+
+#: views/tickets/crm_tickets_all.php:379
+msgid "Agent Voices"
+msgstr "Voix de agent"
+
+#: views/tickets/crm_tickets_all.php:381
+msgid "Rating"
+msgstr "Classement"
+
+#: views/tickets/crm_tickets_all.php:382
+msgid "Source"
+msgstr "Source"
+
+#: views/tickets/crm_tickets_all.php:454
+msgid "Submit as"
+msgstr "Soumettre comme gratuit"
+
+#: views/tickets/crm_tickets_all.php:471
+msgid "Submit as Note"
+msgstr "Présenter comme Note"
+
+#: views/tickets/crm_tickets_all.php:472
+msgid "Notes visible to Agents and Supervisors"
+msgstr "Notes visibles pour les Agents et les superviseurs"
+
+#: views/tickets/crm_tickets_all.php:486
+msgid "You do not have permisson to reply this ticket"
+msgstr "Vous n’avez pas de permis de répondre à ce billet"
+
+#: views/welcome/welcome.php:30
+msgid "Start"
+msgstr "Démarrer"
+
+#: views/welcome/welcome.php:35
+msgid "Support Setup"
+msgstr "Voir Configuration d'installation"
+
+#: views/welcome/welcome.php:40
+msgid "Ticket  Fields"
+msgstr "Champs de billet"
+
+#: views/welcome/welcome.php:45
+msgid "Email Client"
+msgstr "Client de courrier électroniqueComment"
+
+#: views/welcome/welcome.php:55
+msgid "Ready!"
+msgstr "Prêt !"
+
+#: views/welcome/welcome.php:126
+msgid "WSDesk &rsaquo; Setup Wizard"
+msgstr "WSDesk &rsaquo; Assistant Installation"
+
+#: views/welcome/welcome.php:144
+msgid "Return to the WordPress Dashboard"
+msgstr "Retourner au tableau de bord de WordPress"
+
+#: views/welcome/welcome.php:158
+msgid "Thank you for choosing WSDesk to power your online support!"
+msgstr "Merci d’avoir choisi WSDesk pour alimenter votre soutien en ligne !"
+
+#: views/welcome/welcome.php:168
+msgid "Your helpdesk is ready!"
+msgstr "Le service d’assistance est prête !"
+
+#: views/welcome/welcome.php:177
+msgid "WSDesk - Quick Setup Wizard"
+msgstr "WSDesk - Assistant de configuration rapide"
+
+#: views/welcome/welcome.php:247
+msgid ""
+"This quick setup wizard will help you configure the basic settings. <br/"
+"><strong>It's completely optional and shouldn't take longer.</strong>"
+msgstr ""
+"Cet Assistant de configuration rapide vous aidera à configurer les réglages "
+"de base.<br><strong>Elle est entièrement facultative et ne devrait pas "
+"prendre plus de temps.</strong>"
+
+#: views/welcome/welcome.php:248
+msgid ""
+"No time right now? If you don't want to go through the wizard, you can skip "
+"and configure it later under settings."
+msgstr ""
+
+#: views/welcome/welcome.php:250
+msgid "Not right now"
+msgstr "Pas maintenant"
+
+#: views/welcome/welcome.php:251
+msgid "Let's setup now!"
+msgstr "Nous allons configurer maintenant !"
+
+#: views/welcome/welcome.php:262
+msgid "Set your support page title and email ID."
+msgstr "Définir le titre de votre page de soutien et email ID."
+
+#: views/welcome/welcome.php:271
+msgid "WSDesk Support Page Title"
+msgstr "Titre de la Page Support WSDesk"
+
+#: views/welcome/welcome.php:273
+msgid "Title which will be displayed on your site"
+msgstr "Titre qui sera affiché sur votre site"
+
+#: views/welcome/welcome.php:275
+msgid "Enter page title"
+msgstr "Entrez Titre de la page"
+
+#: views/welcome/welcome.php:285
+msgid "WSDesk Support Email"
+msgstr "WSDesk Support Email"
+
+#: views/welcome/welcome.php:287
+msgid "The email ID which is used for support responses"
+msgstr "L’identification d’email qui est utilisée pour les réponses de soutien"
+
+#: views/welcome/welcome.php:297 views/welcome/welcome.php:364
+#: views/welcome/welcome.php:401 views/welcome/welcome.php:427
+msgid "Skip this step"
+msgstr "Passer cette étape"
+
+#: views/welcome/welcome.php:298
+msgid "Save & Continue"
+msgstr "Enregistrer et Continuer"
+
+#: views/welcome/welcome.php:339
+msgid "Configure your support form fields"
+msgstr "Configurer vos champs de formulaire de soutien"
+
+#: views/welcome/welcome.php:348
+msgid "Save your changes before going to next step."
+msgstr "Enregistrez vos modifications avant de passer à l’étape suivante."
+
+#: views/welcome/welcome.php:365 views/welcome/welcome.php:402
+#: views/welcome/welcome.php:428
+msgid "Continue"
+msgstr "Continuer"
+
+#: views/welcome/welcome.php:381
+msgid "Configure your Email client to create tickets"
+msgstr "Configurer votre client de messagerie pour créer des billets"
+
+#: views/welcome/welcome.php:415
+msgid "Setup your support agents to handle tickets"
+msgstr "Configurer vos agents de soutien pour gérer les billets"
+
+#: views/welcome/welcome.php:443
+msgid "Have a WooCommerce Store? Upgrade to"
+msgstr "Avoir un magasin de WooCommerce ? Mise à niveau vers"
+
+#: views/welcome/welcome.php:452
+msgid "Get started with your first ticket"
+msgstr "Démarrer avec votre premier billet"
+
+#: views/welcome/welcome.php:453
+msgid "Create a ticket!"
+msgstr "CRÉER UN BILLET"
+
+#: views/welcome/welcome.php:457
+msgid "WSDesk Documentation"
+msgstr "WSDesk Documentation"
+
+#: views/welcome/welcome.php:458
+msgid "Read how to setup Google OAuth."
+msgstr "Lire comment configurer Google OAuth."
+
+#: views/welcome/welcome.php:459
+msgid "How to import tickets from Zendesk?"
+msgstr "Comment faire pour importer des billets de Zendesk ?"
+
+#: wsdesk.php:160
+msgid "Documentation"
+msgstr "Documentation"
+
+#: wsdesk.php:161
+msgid "Support"
+msgstr "Support"
+
+#. Plugin Name of the plugin/theme
+msgid "WSDesk - Wordpress HelpDesk & Support Ticket System (BASIC)"
+msgstr "WSDesk - Wordpress HelpDesk & Support Ticket System (BASIC)"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://wsdesk.com"
+msgstr "https://wsdesk.com"
+
+#. Description of the plugin/theme
+msgid ""
+"Enhances your customer service and enables efficient handling of customer "
+"issues."
+msgstr ""
+"Améliore votre service à la clientèle et permet une gestion efficace des "
+"problèmes à la clientèle."
+
+#. Author of the plugin/theme
+msgid "WSDesk"
+msgstr "WSDesk"

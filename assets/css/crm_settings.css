@@ -1,0 +1,105 @@
+.ticket_field_add_values
+{
+    display: block;
+}
+.wsdesk_super{
+    vertical-align: super;
+    font-size: x-small;
+    position: relative;
+    color: green;
+}
+div#ticket_fields_configure_source {
+    display: none;
+}
+div#ticket_fields_configure_selected
+{
+    display: none;
+}
+.fc-field {
+    border-color: #ddd;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    background-color: white;
+    -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.2);
+    padding: 5px 0px;
+    margin: 5px 0px;
+}
+.list-border-settings{
+    border: 1px dotted #ddd;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+}
+.fc-field-list
+{
+    height: auto;
+    width: 300px !important;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+    text-align: center;
+
+}
+.fc-selected {
+    color: #fff;
+    background-color: #337ab7;
+    cursor: grab;
+}
+#ticket_fields_configure_final .fc-field-list
+{
+    height: auto;
+    width: 500px !important;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+    text-align: center;
+
+}
+.fc-source-fields
+{
+    background-color: whitesmoke;
+}
+.fc-destination-fields
+{
+    background-color: whitesmoke;
+}
+#ticket_fields_configure_final [class*="col-"] {
+    display: table-cell;
+    vertical-align: top;
+    float: none;
+}
+span.fc-field-name
+{
+    float: left;
+    padding: 0px 5px;
+}
+span.fc-field-type
+{
+    float: right;
+    padding: 0px 5px;
+}
+.ticket_fields_remove
+{
+    margin: 10px 0px;
+    width: auto;
+}
+.ticket_labels_remove
+{
+    margin: 10px 0px;
+    width: 100%;
+}
+.ticket_tags_remove
+{
+    margin: 10px 0px;
+    width: auto;
+}
+.select2-search__field
+{
+    width: 100% !important;
+}
+a:hover,
+a:focus {
+    text-decoration: none !important;
+}
+a:focus {
+    outline: 0 !important;
+    box-shadow: none !important;
+}
